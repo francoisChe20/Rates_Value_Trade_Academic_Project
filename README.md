@@ -1,7 +1,8 @@
 # Rates_Value_Trade_Academic_Project
 
 Case study:
-- The assignment is based on a Harvard Business School case study “Deutsche Bank:
+
+The assignment is based on a Harvard Business School case study “Deutsche Bank:
 Finding Relative Value Trades”. You can download the case and the associated data by
 using the below links:
 * Case: https://hbsp.harvard.edu/tu/35f6a172
